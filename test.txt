@@ -1,1 +1,3 @@
 sdfasdf some changes
+
+conflicted change 1
